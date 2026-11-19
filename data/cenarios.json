@@ -1,0 +1,18 @@
+{
+  "normal": {
+    "temperatura_sensor_c": 34.5,
+    "qualidade_sensor_optico_pct": 96,
+    "buffer_imagens_pct": 42,
+    "energia_pct": 78,
+    "precisao_geolocalizacao_m": 8.0,
+    "focos_calor_detectados": 3
+  },
+  "critico": {
+    "temperatura_sensor_c": 76.2,
+    "qualidade_sensor_optico_pct": 62,
+    "buffer_imagens_pct": 94,
+    "energia_pct": 14,
+    "precisao_geolocalizacao_m": 38.0,
+    "focos_calor_detectados": 27
+  }
+}

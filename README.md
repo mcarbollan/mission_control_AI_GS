@@ -89,7 +89,7 @@ Execute `python -m unittest discover -s tests -v` para validar os cenários norm
 - A métrica de 100 áreas prioritárias por dia é uma meta ilustrativa, não uma medição operacional.
 
 ## Demonstração
-Vídeo em gravação. Antes da entrega, inserir aqui o link do YouTube como **Não listado**, com duração máxima de 3 minutos.
+Vídeo em gravação: https://youtu.be/Iwj9e4kck58?is=r8g-pHWE6iH2jsG9
 
 ## Evidências
 ![Operação normal no navegador](assets/screenshot_operacao_normal.png)
