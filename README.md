@@ -95,4 +95,4 @@ Vídeo em gravação: https://youtu.be/Iwj9e4kck58?is=r8g-pHWE6iH2jsG9
 ![Operação normal no navegador](assets/screenshot_operacao_normal.png)
 ![Cenário crítico no navegador](assets/screenshot_cenario_critico.png)
 
-Os dois prints foram gerados pela visualização local do projeto. Para repetir a evidência, execute `python web.py`, abra `http://127.0.0.1:8000` e selecione o cenário desejado. Para a versão final, o vídeo deve mostrar também a resposta efetiva da Ollama Cloud após configurar a chave no `.env`.
+Os dois prints foram gerados pela visualização local do projeto. Para repetir a evidência, execute `python web.py`, abra `http://127.0.0.1:8000` e selecione o cenário desejado.
